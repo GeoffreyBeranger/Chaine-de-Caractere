@@ -1,0 +1,2 @@
+# Chaine-de-Caractere
+DepotsExoChaineDeCaractere
